@@ -1,2 +1,2 @@
 # PuPePoTyping
-PuPePoタイピング用紹介トリポジトリです
+PuPePoタイピング用紹介リポジトリです
